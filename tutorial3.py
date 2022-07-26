@@ -1,5 +1,5 @@
 # Conditions
-# There are 4 main conditional operators. <, >, ==, !=.
+# There are 6 main conditional operators. <, >, ==, !=, <=, >=.
 
 'tim' != 'hello'    # Returns True
 
