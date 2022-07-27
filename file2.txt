@@ -1,0 +1,2 @@
+Retarded
+I am learning to write to files in python.

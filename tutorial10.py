@@ -6,6 +6,8 @@ text = input('Input something: ')
 print(text)
 print(text.strip())
 print(len(text))
+# strip function removes whitespaces (including \t and \n) from the start and end of the provided string.
+# It can also take in parameters to remove those characters from the start or end of the string.
 
 # .lower() turns everything to lower case.
 # .upper() turns everything to upper case.
